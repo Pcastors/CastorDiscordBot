@@ -17,3 +17,5 @@ Le Quartier Général de la **TeamNico** est le restaurant "**Chez Papa**" à Pa
 **Chypriote** est le fondateur du site [LoLPros](https://lolpros.gg/) pour voir le classement européens des joueurs de LoL.
 
 **Chypriote** ne rate jamais le concert de ses chanteurs et chanteuses préférés comme The Weeknd ou Taylor Swift.
+
+**Krakmo** est un cuisinier hors-pair, spécialiste dans les recettes à base de Powerade.
