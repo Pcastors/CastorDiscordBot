@@ -1,0 +1,23 @@
+DISCORD_TOKEN = 43211230MDgxMDY0NzE2MzAxMQ.GnnmXc.YXEbBur3gfRPj6sUq0MwAMWOeGZ7Z7_vwqZE37w
+DISCORD_CHANNEL = 1234588888223249999,9999588888223243212
+LLM_MODEL = llama3
+DISCORDBOT_ID = 1888822883249999
+
+CHROMA_PATH = storeFiles/chromaDB
+DATA_PATH = storeFiles
+
+SYSTEMPROMPT = "
+put system promt as string here
+
+"
+
+
+RAG_PROMPT_TEMPLATE = "
+Answer the question based only on the following context:
+
+{context}
+
+---
+
+Answer the question based on the above context: {question}
+"
